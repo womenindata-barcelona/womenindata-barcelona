@@ -4,7 +4,7 @@ Welcome to our Github repository. Here you will find some helpful resources to k
 Also, you will find all the necessary info regarding our webinars and workshops:
 
 - Mentoring program 📫
-- Intro to Github 🌱
+- Intro to GitHub 🌱
 
 
 If you wish to collaborate with us, feel free to send us an email to barcelonachapter@womenindata.org 💞️

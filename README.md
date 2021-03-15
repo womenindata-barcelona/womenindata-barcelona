@@ -7,4 +7,4 @@ Also, you will find all the necessary info regarding our webinars and workshops:
 - Intro to GitHub 🌱
 
 
-If you wish to collaborate with us, feel free to send us an email to barcelonachapter@womenindata.org 💞️
+If you wish to collaborate with us, feel free to send us an email to barcelonachapter@womenindata.org.
